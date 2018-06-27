@@ -1,0 +1,12 @@
+/* Overall Settings */
+*{margin: 0 auto; text-align: center; font-family: "Palatino"; max-width: 1300px;}
+html{background-color:rgba(0,0,0,1);}
+
+/*** Moving Buttons ***/
+
+	.movingButton{
+		position: absolute;
+	}
+		.movingButton:hover{
+			cursor: pointer;
+		}
